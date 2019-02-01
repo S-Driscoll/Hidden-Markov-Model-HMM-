@@ -7,12 +7,12 @@ The project provides HMMs for sequential recognition in MATLSB. Detection proced
 # Usage
 Clone or Download the repository and implement the 'hmm_actdet1.m' function. 
 
-!<img src="Results/flow.png" width="400" height="400"/>
+!<img src="Results/flow.png" width="800" height="400"/>
 
 # Results
 !<img src="Results/sig1.png" width="400" height="400"/> !<img src="Results/sig2.png" width="400" height="400"/>
 !<img src="Results/plot1.png" width="400" height="400"/> !<img src="Results/plot2.png" width="400" height="400"/>
-!<img src="Results/bar1.png" width="400" height="400"/> !<img src="Results/bar2.png" width="400" height="400"/>
+!<img src="Results/bar1.jpg" width="400" height="400"/> !<img src="Results/bar2.jpg" width="400" height="400"/>
 
 # Acknowledgment
 We would like to recognize the funding support provided by the Science & Engineering Research Board, a statutory body of the Department of Science & Technology (DST), Government of India, SERB file number ECR/2016/000637.
